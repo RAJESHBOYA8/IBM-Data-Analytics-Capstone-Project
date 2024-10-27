@@ -28,6 +28,7 @@ The objective of this capstone is to apply various data analysis skills to a giv
 ## 📄 Certificate
 
 You can view my IBM Data Analyst Professional Certificate here: [IBM Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/TEQ2N87K2MV5)
+
 CREDLY BADGE : [IBM Data Analytics Badge](https://www.credly.com/badges/4aa6bd46-3f06-4f38-9b97-6980c0574440/linked_in_profile).
 
 ![](https://github.com/user-attachments/assets/a602bf7c-76bc-4be5-92cf-6dcc4fb7a804)
