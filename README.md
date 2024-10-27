@@ -3,6 +3,9 @@
 Welcome to the IBM Data Analytics Capstone Project repository, where I demonstrate the skills gained through the IBM Data Analyst Professional Certificate program on Coursera. 
 This project focuses on solving a real-world business problem by leveraging data analytics techniques to derive meaningful insights.
 
+![image](https://github.com/user-attachments/assets/e59210f6-a233-4737-ba04-95ecdc8cd5ea)
+
+
 ## 📋 Project Description
 
 The objective of this capstone is to apply various data analysis skills to a given dataset, analyze patterns, and provide actionable insights for a business scenario. The project involves:
