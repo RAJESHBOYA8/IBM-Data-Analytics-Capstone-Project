@@ -8,12 +8,25 @@ This project focuses on solving a real-world business problem by leveraging data
 
 ## 📋 Project Description
 
-The objective of this capstone is to apply various data analysis skills to a given dataset, analyze patterns, and provide actionable insights for a business scenario. The project involves:
+As a Data Analyst, we will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
 
-1. Data Acquisition and Cleaning: Sourcing and preparing data to ensure accuracy and consistency.
-2. Exploratory Data Analysis (EDA): Identifying key trends, outliers, and data patterns using statistical methods.
-3. Data Visualization: Using visual tools to present data findings in a clear, concise, and impactful manner.
-4. Insights and Recommendations: Offering data-driven suggestions to address the business problem.
+Task 1
+Our first task is to collect data for the technology skills that are most in demand from various sources including job postings, blog posts, and surveys. We will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.
+
+Task 2
+Once we've collected enough data we will take the collected data and prepare it for analysis by using data wrangling techniques like finding duplicates, removing duplicates, finding missing values, and inputting missing values.
+
+Task 3
+Now that the data is ready we will apply statistical techniques to analyze the data and identify insights and trends like: What are the top programming languages that are in demand? What are the top database skills that are in demand? What are the most popular IDEs? And Demographic data like gender and age distribution of developers.
+
+Task 4
+In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into DataFrames.
+
+Task 5
+For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
+
+Task 6
+For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis. 
 
 ## 🔧 Tools & Technologies
 
